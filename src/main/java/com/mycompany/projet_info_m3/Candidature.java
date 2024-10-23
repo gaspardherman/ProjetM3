@@ -9,6 +9,6 @@ package com.mycompany.projet_info_m3;
  * @author gaspa
  */
 public class Candidature {
-    //test
+    
     
 }

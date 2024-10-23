@@ -9,6 +9,6 @@ package com.mycompany.projet_info_m3;
  * @author Elève
  */
 public class Etudiant {
-    //test2
+   
     
 }
